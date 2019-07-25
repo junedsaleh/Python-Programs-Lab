@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------
+----------------------------------- 02/07/2019 -----------------------------------
+------------------------------------------------------------------------------------
+
+q1)
+enter one number : n
+enter n city names in list
+then enter one character and find occurance of that character in 
+each city name
+
+for example: [surat,rajkot,anand]
+character : s
+output it [1,0,0]
+
+here, we check list by its value one by one with the help of while or for loop
+and also checking occurance of char in valu meanwhile with the help of
+lst.append(city[j].count(ch))
+
+------------------------------------------------------------------------------------
+q2) 
+enter one number : n
+enter n number of names in name list
+enter n number of city name in city list
+enter n number of mobile in mobile list
+
+now let user to enter city name
+print all the names and mobile numbers corresponding to tha city name
+
+here, we are chacking city name in list and printing corrosponding index values with help of
+print(names[city.index(ch)])
+------------------------------------------------------------------------------------

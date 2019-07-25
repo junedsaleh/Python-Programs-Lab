@@ -1,0 +1,19 @@
+1)
+enter one number : n
+enter n city names in list
+then enter one character and find occurance of that character in 
+each city name
+
+for example: [surat,rajkot,anand]
+character : s
+output it [1,0,0]
+
+2) 
+enter one number : n
+enter n number of names in name list
+enter n number of city name in city list
+enter n number of mobile in mobile list
+
+now let user to enter city name
+print all the names and mobile numbers corresponding to tha city name
+
